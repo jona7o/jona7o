@@ -1,10 +1,10 @@
 ### jona7o 👋
 
-[https://innfactory.de](![innfactory logo][logo])
+[![innfactory logo][logo]](https://innfactory.de)
 
-Find me @ [https://twitter.com/jona7o](Twitter) or [https://www.linkedin.com/in/jona7o/](LinkedIn)
+Find me @ [Twitter](https://twitter.com/jona7o) or [LinkedIn](https://www.linkedin.com/in/jona7o/)
 
-Follow innFactory on [https://twitter.com/innFactoryGmbH](Twitter), [https://www.linkedin.com/company/innfactory/](LinkedIn), [https://github.com/innFactory](github)
+Follow innFactory on [Twitter](https://twitter.com/innFactoryGmbH), [LinkedIn](https://www.linkedin.com/company/innfactory/), [github](https://github.com/innFactory)
 
 
 [logo]: https://innfactory.de/wp-content/uploads/2020/01/innFactory_web_1x.png "innFactory Logo"
