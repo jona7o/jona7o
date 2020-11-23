@@ -8,3 +8,5 @@ Follow innFactory on [Twitter](https://twitter.com/innFactoryGmbH), [LinkedIn](h
 
 
 [logo]: https://innfactory.de/wp-content/uploads/2020/01/innFactory_web_1x.png "innFactory Logo"
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jona7o&show_icons=true&count_private=true&theme=onedark)
